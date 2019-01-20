@@ -14,5 +14,4 @@ In this project, I will perform an exploratory analysis on data provided by Moti
 
 I will also see if there are any differences within each system for those users that are registered, regular users and those users that are short-term, casual users. I will make use of Python(Pandas) to explore data and perform data wrangling to unify the format of data from the three systems and write code to compute descriptive statistics. I will also make use of a package that is not part of the standard Python library to help you visualize the data.
 # Why this project
-
-If you are not familiar with the data analysis process, this project will be your first exposure to the kinds of steps that a data analyst takes when they approach a dataset. For now, all you need is the general python programming skills and a desire to learn about the data analysis process!
+This project is my first exposure to the kinds of steps that a data analyst takes when they approach a dataset. For now, all you need is the general python programming skills and a desire to learn about the data analysis process!
